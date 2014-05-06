@@ -1,0 +1,12 @@
+# Python-compiled byte-code
+*.py[co]
+
+# Doxygen-generated code documentation
+html
+latex
+
+# Results (maybe later we'll have them in the repo)
+results
+
+
+plotscripts/data.mat
